@@ -1,0 +1,19 @@
+*{
+	margin:0px;
+	padding:0px;
+    }
+    
+main {
+         /* background-size: 100%;  */
+         height: 190px;
+         width: 50%;
+         /* margin : auto; */
+         margin-top: 15px;
+
+}  
+
+*[required] {
+  background-color:  lightgoldenrodyellow;
+}
+
+canvas {border: outset navy 2px;}
